@@ -3,13 +3,13 @@
 Open source. A curated list of open-source projects for running an AI employee, a role-based agent
 with its own instructions, tools, memory and review rules, instead of renting one from a vendor.
 
-Maintained with [Kortix](https://kortix.com), the open-source AI Operating System, and the list behind
+Maintained with [Kortix](https://kortix.com), the open-source CompanyOS, and the list behind
 [opensourceaiemployee.com](https://opensourceaiemployee.com). The definition behind this list is set
 out at [what is an AI employee](https://opensourceaiemployee.com/what-is-an-ai-employee).
 
 ## The platform
 
-- [Kortix](https://github.com/kortix-ai/suna): the open-source AI Operating System. An AI employee
+- [Kortix](https://github.com/kortix-ai/suna): the open-source CompanyOS. An AI employee
   is an agent with a role file, a connector grant and a `kortix.yaml` policy that sets every call to
   allow, require approval or block. Self-hosted, VPC or on-prem, any model. Docs:
   <https://kortix.com/docs>.
