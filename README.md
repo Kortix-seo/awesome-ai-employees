@@ -9,7 +9,7 @@ out at [what is an AI employee](https://opensourceaiemployee.com/what-is-an-ai-e
 
 ## The platform
 
-- [Kortix](https://github.com/kortix-ai/suna): the open-source CompanyOS. An AI employee
+- [Kortix](https://github.com/kortix-ai/CompanyOS): the open-source CompanyOS. An AI employee
   is an agent with a role file, a connector grant and a `kortix.yaml` policy that sets every call to
   allow, require approval or block. Self-hosted, VPC or on-prem, any model. Docs:
   <https://kortix.com/docs>.
